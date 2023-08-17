@@ -14,6 +14,7 @@
 		DD8D31332A8DAA1200EA03B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD8D31312A8DAA1200EA03B9 /* LaunchScreen.storyboard */; };
 		DD8D313B2A8DACE600EA03B9 /* MenuScreenVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D313A2A8DACE600EA03B9 /* MenuScreenVC.swift */; };
 		DD8D313D2A8DAD4E00EA03B9 /* DetailScreenVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D313C2A8DAD4E00EA03B9 /* DetailScreenVC.swift */; };
+		DD8D313F2A8DAD9F00EA03B9 /* ProfileScreenVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D313E2A8DAD9E00EA03B9 /* ProfileScreenVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DD8D31342A8DAA1200EA03B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DD8D313A2A8DACE600EA03B9 /* MenuScreenVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuScreenVC.swift; sourceTree = "<group>"; };
 		DD8D313C2A8DAD4E00EA03B9 /* DetailScreenVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailScreenVC.swift; sourceTree = "<group>"; };
+		DD8D313E2A8DAD9E00EA03B9 /* ProfileScreenVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileScreenVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				DD8D31282A8DAA0E00EA03B9 /* SceneDelegate.swift */,
 				DD8D313A2A8DACE600EA03B9 /* MenuScreenVC.swift */,
 				DD8D313C2A8DAD4E00EA03B9 /* DetailScreenVC.swift */,
+				DD8D313E2A8DAD9E00EA03B9 /* ProfileScreenVC.swift */,
 				DD8D312A2A8DAA0E00EA03B9 /* MainTabBarViewController.swift */,
 				DD8D312F2A8DAA1200EA03B9 /* Assets.xcassets */,
 				DD8D31312A8DAA1200EA03B9 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				DD8D313D2A8DAD4E00EA03B9 /* DetailScreenVC.swift in Sources */,
 				DD8D31272A8DAA0E00EA03B9 /* AppDelegate.swift in Sources */,
 				DD8D31292A8DAA0E00EA03B9 /* SceneDelegate.swift in Sources */,
+				DD8D313F2A8DAD9F00EA03B9 /* ProfileScreenVC.swift in Sources */,
 				DD8D313B2A8DACE600EA03B9 /* MenuScreenVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
