@@ -66,12 +66,12 @@
 			children = (
 				DD8D31262A8DAA0E00EA03B9 /* AppDelegate.swift */,
 				DD8D31282A8DAA0E00EA03B9 /* SceneDelegate.swift */,
+				DD8D312A2A8DAA0E00EA03B9 /* MainTabBarViewController.swift */,
 				DD8D313A2A8DACE600EA03B9 /* MenuScreenVC.swift */,
 				DD8D313C2A8DAD4E00EA03B9 /* DetailScreenVC.swift */,
 				DD8D313E2A8DAD9E00EA03B9 /* ProfileScreenVC.swift */,
 				DD8D31402A8DAE5C00EA03B9 /* ContactsScreenVC.swift */,
 				DD8D31422A8DAE9600EA03B9 /* BasketScreenVC.swift */,
-				DD8D312A2A8DAA0E00EA03B9 /* MainTabBarViewController.swift */,
 				DD8D312F2A8DAA1200EA03B9 /* Assets.xcassets */,
 				DD8D31312A8DAA1200EA03B9 /* LaunchScreen.storyboard */,
 				DD8D31342A8DAA1200EA03B9 /* Info.plist */,
