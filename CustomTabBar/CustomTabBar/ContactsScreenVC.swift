@@ -12,6 +12,7 @@ final class ContactsScreenVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        view.backgroundColor = .red
         // some code here
     }
 }

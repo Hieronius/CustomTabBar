@@ -12,6 +12,7 @@ final class BasketScreenVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        view.backgroundColor = .blue
         // some code here
     }
 }
