@@ -17,6 +17,7 @@
 		DD8D313F2A8DAD9F00EA03B9 /* ProfileScreenVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D313E2A8DAD9E00EA03B9 /* ProfileScreenVC.swift */; };
 		DD8D31412A8DAE5C00EA03B9 /* ContactsScreenVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D31402A8DAE5C00EA03B9 /* ContactsScreenVC.swift */; };
 		DD8D31432A8DAE9600EA03B9 /* BasketScreenVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D31422A8DAE9600EA03B9 /* BasketScreenVC.swift */; };
+		DD8D31452A8DB65800EA03B9 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8D31442A8DB65800EA03B9 /* UIColor+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		DD8D313E2A8DAD9E00EA03B9 /* ProfileScreenVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileScreenVC.swift; sourceTree = "<group>"; };
 		DD8D31402A8DAE5C00EA03B9 /* ContactsScreenVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsScreenVC.swift; sourceTree = "<group>"; };
 		DD8D31422A8DAE9600EA03B9 /* BasketScreenVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasketScreenVC.swift; sourceTree = "<group>"; };
+		DD8D31442A8DB65800EA03B9 /* UIColor+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				DD8D31262A8DAA0E00EA03B9 /* AppDelegate.swift */,
 				DD8D31282A8DAA0E00EA03B9 /* SceneDelegate.swift */,
 				DD8D312A2A8DAA0E00EA03B9 /* MainTabBarViewController.swift */,
+				DD8D31442A8DB65800EA03B9 /* UIColor+Extension.swift */,
 				DD8D313A2A8DACE600EA03B9 /* MenuScreenVC.swift */,
 				DD8D313C2A8DAD4E00EA03B9 /* DetailScreenVC.swift */,
 				DD8D313E2A8DAD9E00EA03B9 /* ProfileScreenVC.swift */,
@@ -152,6 +155,7 @@
 				DD8D312B2A8DAA0E00EA03B9 /* MainTabBarViewController.swift in Sources */,
 				DD8D313D2A8DAD4E00EA03B9 /* DetailScreenVC.swift in Sources */,
 				DD8D31432A8DAE9600EA03B9 /* BasketScreenVC.swift in Sources */,
+				DD8D31452A8DB65800EA03B9 /* UIColor+Extension.swift in Sources */,
 				DD8D31272A8DAA0E00EA03B9 /* AppDelegate.swift in Sources */,
 				DD8D31412A8DAE5C00EA03B9 /* ContactsScreenVC.swift in Sources */,
 				DD8D31292A8DAA0E00EA03B9 /* SceneDelegate.swift in Sources */,
